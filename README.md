@@ -5,9 +5,9 @@ It also supports user-created sampling masks, in case you'd like to specify regi
 ## Python
 you would need the following python 3 libraries:
 
-* opencv 3.4.1
-* numpy 1.16.2
-* matplotlib 3.0.3
+* opencv 
+* numpy 
+* matplotlib 
 * and Jupyter Notebook
 
 To start, open the Drawing-using-GeneticAlgorithms.ipynb and run the example code
